@@ -27,15 +27,16 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Essential Cell Biology: An Introduction to the Molecular Biology of the Cell | Bruce Alberts, Dennis Bray, Alexander Johnson, Julian Lewis, Martin Raff, Keith Robert and Peter Walter |
 
 ## Classic & World Literature
-| Book        | Author |
-| ----------- | ----------- |
-| Animal Farm | George Orwell |
-| Hamlet | William Shakespeare |
+| Book                    | Author |
+|-------------------------| ----------- |
+| Animal Farm             | George Orwell |
+| Hamlet                  | William Shakespeare |
 | The Old Man and the Sea | Ernest Hemingway |
-| Of Mice and Men | John Steinbeck |
-| The Miser | Moliére |
-| The Little Prince | Antoine de Saint-Exupéry |
-| The Metamorphosis | Franz Kafka |
+| Of Mice and Men         | John Steinbeck |
+| The Miser               | Moliére |
+| The Little Prince       | Antoine de Saint-Exupéry |
+| The Metamorphosis       | Franz Kafka |
+| 1984                    | George Orwell |
 
 ## Fun
 | Book        | Author |
@@ -62,11 +63,13 @@ Personal list of books I have read. The file was created for inspiration and tip
 | How to Stop Worrying and Start Living | Dale Carnegie |
 | How to Win Friends and Influence People | Dale Carnegie |
 | Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life | Jim Kwik |
+| Posilování stresem : cesta k odolnosti (English: Strengthening with stress: the path to resilience) | Pavel Kolář |
 | Teach Yourself How to Learn | Saundra Yancy McGuire |
 | TED Talks: The Official TED Guide to Public Speaking | Chris Anderson |
 | The Pomodoro Technique: The Life-Changing Time-Management System | Francesco Cirillo |
 | The Power of Habit: Why We Do What We Do in Life and Business | Charles Duhigg |
 | The Richest Man in Babylon | George S. Clason |
+| The Secret Language of Success: Using Body Language to Get What You Want | David Lewis |
 | The 4-Hour Workweek | Timothy Ferriss |
 | Think Your Way to Wealth | Napoleon Hill |
 | This Is Marketing You Can’t Be Seen Until You Learn to See | Seth Godin |
@@ -82,6 +85,9 @@ Personal list of books I have read. The file was created for inspiration and tip
 | C Programming Language, 2nd Edition | Brian W. Kernighan and Dennis M. Ritchie |
 | Competitive Programmer’s Handbook | Antti Laaksonen |
 | Hradla, volty, jednočipy (English: Gates, volts, microcontrollers) | Martin Malý |
+| Learn You a Haskell for Great Good!: A Beginner's Guide | Miran Lipovaca |
+| Mastering Bitcoin: Programming the Open Blockchain, 3rd Edition | Andreas M. Antonopoulos and David A. Harding |
+| Mastering Ethereum: Implementing Digital Contracts | Andreas M. Antonopoulos and Dr. Gavin Wood |
 | Učebnice jazyka Java (English: Java Language Textbook) | Pavel Herout |
 | Učíme se programovat v jazyce Assembler pro PC (English: We are learning to program in Assembler language for PC) | Rudolf Marek |
 
