@@ -52,6 +52,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | The Hobbit: or There and Back Again | John Ronald Reuel Tolkien |
 | The Lost Symbol | Dan Brown |
 | The Snowman | Jo Nesbø |
+| The Three-Body Problem | Liu Cixin |
 
 ## Personal Growth & Self Improvement
 | Book        | Author |
@@ -71,6 +72,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | The Richest Man in Babylon | George S. Clason |
 | The Secret Language of Success: Using Body Language to Get What You Want | David Lewis |
 | The 4-Hour Workweek | Timothy Ferriss |
+| The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change | Stephen R. Covey |
 | Think Your Way to Wealth | Napoleon Hill |
 | This Is Marketing You Can’t Be Seen Until You Learn to See | Seth Godin |
 | Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! | Robert T. Kiyosaki |
@@ -83,11 +85,10 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Book        | Author |
 | ----------- | ----------- |
 | C Programming Language, 2nd Edition | Brian W. Kernighan and Dennis M. Ritchie |
+| Cartesian Genetic Programming | Julian F. Miller |
 | Competitive Programmer’s Handbook | Antti Laaksonen |
 | Hradla, volty, jednočipy (English: Gates, volts, microcontrollers) | Martin Malý |
 | Learn You a Haskell for Great Good!: A Beginner's Guide | Miran Lipovaca |
-| Mastering Bitcoin: Programming the Open Blockchain, 3rd Edition | Andreas M. Antonopoulos and David A. Harding |
-| Mastering Ethereum: Implementing Digital Contracts | Andreas M. Antonopoulos and Dr. Gavin Wood |
 | Učebnice jazyka Java (English: Java Language Textbook) | Pavel Herout |
 | Učíme se programovat v jazyce Assembler pro PC (English: We are learning to program in Assembler language for PC) | Rudolf Marek |
 
@@ -110,3 +111,11 @@ Personal list of books I have read. The file was created for inspiration and tip
 | MICHLiq inteligentní průvodce ekonomikou (English: MICHLiq the smart economy guide) | Aleš Michl |
 | Moderní ekonomie: jednoduše o všem, co byste měli vědět (English: Modern economics: simply about everything you should know) | Hana Lipovská |
 | What Has Government Done to Our Money? | Murray N. Rothbard |
+
+## Bitcoin & Crypto
+| Book        | Author |
+| ----------- | ----------- |
+| Grokking Bitcoin | Kalle Rosenbaum |
+| Mastering Bitcoin: Programming the Open Blockchain, 3rd Edition | Andreas M. Antonopoulos and David A. Harding |
+| Mastering Ethereum: Implementing Digital Contracts | Andreas M. Antonopoulos and Dr. Gavin Wood |
+
