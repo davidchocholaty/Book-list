@@ -89,6 +89,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Competitive Programmer’s Handbook | Antti Laaksonen |
 | Hradla, volty, jednočipy (English: Gates, volts, microcontrollers) | Martin Malý |
 | Learn You a Haskell for Great Good!: A Beginner's Guide | Miran Lipovaca |
+| The Rust Programming Language | Steve Klabnik, Carol Nichols and the Rust Community |
 | Učebnice jazyka Java (English: Java Language Textbook) | Pavel Herout |
 | Učíme se programovat v jazyce Assembler pro PC (English: We are learning to program in Assembler language for PC) | Rudolf Marek |
 
