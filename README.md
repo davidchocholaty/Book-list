@@ -116,6 +116,9 @@ Personal list of books I have read. The file was created for inspiration and tip
 ## Bitcoin & Crypto
 | Book        | Author |
 | ----------- | ----------- |
+| Bitcoin Money: A Tale of Bitville Discovering Good Money (Braiins Publishing version) |  Michael Caras and Marina Yakubivska |
+| Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto |
+| Bitcoin: Separation of Money and State | Josef Tětek |
 | Grokking Bitcoin | Kalle Rosenbaum |
 | Mastering Bitcoin: Programming the Open Blockchain, 3rd Edition | Andreas M. Antonopoulos and David A. Harding |
 | Mastering Ethereum: Implementing Digital Contracts | Andreas M. Antonopoulos and Dr. Gavin Wood |
