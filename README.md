@@ -122,4 +122,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Grokking Bitcoin | Kalle Rosenbaum |
 | Mastering Bitcoin: Programming the Open Blockchain, 3rd Edition | Andreas M. Antonopoulos and David A. Harding |
 | Mastering Ethereum: Implementing Digital Contracts | Andreas M. Antonopoulos and Dr. Gavin Wood |
+| Measuring Value | Nick Szabo |
+| Shelling Out: The Origins of Money | Nick Szabo |
+| The Bullish Case for Bitcoin (Braiins Publishing version) | Vijay Boyapati |
 
