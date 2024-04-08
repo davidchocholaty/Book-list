@@ -2,14 +2,16 @@
 Personal list of books I have read. The file was created for inspiration and tips on books to read.
 
 ## Topics
-1. [Biographies](#biographies)
-2. [Biology](#biology)
-3. [Classic & World Literature](#classic--world-literature)
-4. [Fun](#fun)
-5. [Personal Growth & Self Improvement](#personal-growth--self-improvement)
-6. [Programming](#programming)
-7. [Theoretical Informatics](#theoretical-informatics)
-8. [Trading, Economics](#trading-economics)
+1.  [Biographies](#biographies)
+2.  [Biology](#biology)
+3.  [Classic & World Literature](#classic--world-literature)
+4.  [Fun](#fun)
+5.  [Personal Growth & Self Improvement](#personal-growth--self-improvement)
+6.  [Programming](#programming)
+7.  [Theoretical Informatics](#theoretical-informatics)
+8.  [Trading, Economics](#trading-economics)
+9.  [Machine Learning](#machine-learning)
+10. [Bitcoin & Crypto](#bitcoin--crypto)
 
 <hr>
 
@@ -112,6 +114,14 @@ Personal list of books I have read. The file was created for inspiration and tip
 | MICHLiq inteligentní průvodce ekonomikou (English: MICHLiq the smart economy guide) | Aleš Michl |
 | Moderní ekonomie: jednoduše o všem, co byste měli vědět (English: Modern economics: simply about everything you should know) | Hana Lipovská |
 | What Has Government Done to Our Money? | Murray N. Rothbard |
+
+## Machine Learning
+| Book        | Author |
+| ----------- | ----------- |
+| A Brief Introduction to Neural Networks | David Kriesel |
+| Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig |
+| The Hundred-Page Machine Learning Book | Andriy Burkov |
+
 
 ## Bitcoin & Crypto
 | Book        | Author |
