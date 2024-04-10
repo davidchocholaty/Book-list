@@ -127,6 +127,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Book        | Author |
 | ----------- | ----------- |
 | Bitcoin Money: A Tale of Bitville Discovering Good Money (Braiins Publishing version) |  Michael Caras and Marina Yakubivska |
+| Bitcoin Mining Handbook | Daniel Frumkin et. al. |
 | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto |
 | Bitcoin: Separation of Money and State | Josef Tětek |
 | Grokking Bitcoin | Kalle Rosenbaum |
