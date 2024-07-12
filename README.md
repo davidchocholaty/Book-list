@@ -40,6 +40,13 @@ Personal list of books I have read. The file was created for inspiration and tip
 | The Metamorphosis       | Franz Kafka |
 | 1984                    | George Orwell |
 
+## Digital Signal Processing
+| Book                    | Author |
+|-------------------------| ----------- |
+| Audio Effects: Theory, Implementation and Application | Joshua D. Reiss, Andrew P. McPherson |
+| DAFX: Digital Audio Effects | Udo Zölzer |
+| Fundamentals of Music Processing: Audio, Analysis, Algorithms, Applications | Meinard Müller |
+
 ## Fun
 | Book        | Author |
 | ----------- | ----------- |
@@ -56,6 +63,11 @@ Personal list of books I have read. The file was created for inspiration and tip
 | The Snowman | Jo Nesbø |
 | The Three-Body Problem | Liu Cixin |
 
+## High Dynamic Range Imaging
+| Book        | Author |
+| ----------- | ----------- |
+| High Dynamic Range Imaging: Acquisition, Display, and Image-Based Lighting | Erik Reinhard, Greg Ward, Sumanta Pattanaik, Paul Debevec, Wolfgang Heidrich, Karol Myszkowski |
+
 ## Personal Growth & Self Improvement
 | Book        | Author |
 | ----------- | ----------- |
@@ -65,6 +77,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | How to Drive: the Ultimate Guide, from the Man Who Was The Stig | Ben Collins |
 | How to Stop Worrying and Start Living | Dale Carnegie |
 | How to Win Friends and Influence People | Dale Carnegie |
+| Konec prokrastinace: Jak přestat odkládat a začít žít naplno (English: The End of Procrastination: How to Stop Procrastinating and Start Living to the Fullest) | Petr Ludwig |
 | Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life | Jim Kwik |
 | Posilování stresem : cesta k odolnosti (English: Strengthening with stress: the path to resilience) | Pavel Kolář |
 | Teach Yourself How to Learn | Saundra Yancy McGuire |
@@ -91,6 +104,8 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Competitive Programmer’s Handbook | Antti Laaksonen |
 | Hradla, volty, jednočipy (English: Gates, volts, microcontrollers) | Martin Malý |
 | Learn You a Haskell for Great Good!: A Beginner's Guide | Miran Lipovaca |
+| Producing Open Source Software: How to Run a Successful Free Software Project | Karl Fogel |
+| Průvodce labyrintem algoritmů (English: Guide through the labyrinth of algorithms) | Martin Mareš, Tomáš Valla |
 | The Rust Programming Language | Steve Klabnik, Carol Nichols and the Rust Community |
 | Učebnice jazyka Java (English: Java Language Textbook) | Pavel Herout |
 | Učíme se programovat v jazyce Assembler pro PC (English: We are learning to program in Assembler language for PC) | Rudolf Marek |
@@ -106,11 +121,13 @@ Personal list of books I have read. The file was created for inspiration and tip
 ## Trading, Economics
 | Book        | Author |
 | ----------- | ----------- |
+| Advances in Financial Machine Learning | Marcos Lopez de Prado |
 | Jak se stát forexovým obchodníkem (English: How to become a forex trader) | Ondřej Hartman |
 | Jak se stát mistrem v tradingu (English: How to become a trading master) | Ludvík Turek and Roman Dvořák|
 | Price Action | Ludvík Turek |
 | The Disciplined Trader: Developing Winning Attitudes | Mark Douglas |
 | Trading in the zone | Mark Douglas |
+| Machine Learning for Algorithmic Trading | Stefan Jansen |
 | MICHLiq inteligentní průvodce ekonomikou (English: MICHLiq the smart economy guide) | Aleš Michl |
 | Moderní ekonomie: jednoduše o všem, co byste měli vědět (English: Modern economics: simply about everything you should know) | Hana Lipovská |
 | What Has Government Done to Our Money? | Murray N. Rothbard |
