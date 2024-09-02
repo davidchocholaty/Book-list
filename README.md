@@ -4,14 +4,18 @@ Personal list of books I have read. The file was created for inspiration and tip
 ## Topics
 1.  [Biographies](#biographies)
 2.  [Biology](#biology)
-3.  [Classic & World Literature](#classic--world-literature)
-4.  [Fun](#fun)
-5.  [Personal Growth & Self Improvement](#personal-growth--self-improvement)
-6.  [Programming](#programming)
-7.  [Theoretical Informatics](#theoretical-informatics)
-8.  [Trading, Economics](#trading-economics)
-9.  [Machine Learning](#machine-learning)
-10. [Bitcoin & Crypto](#bitcoin--crypto)
+3.  [Bitcoin & Crypto](#bitcoin--crypto)
+4.  [Classic & World Literature](#classic--world-literature)
+5.  [Fun](#fun)
+6.  [Graphics & High Dynamic Range Imaging](#graphics--high-dynamic-range-imaging)
+7.  [Languages](#languages)
+8.  [Music & Digital Signal Processing](#music--digital-signal-processing)
+9.  [Personal Growth & Self Improvement](#personal-growth--self-improvement)
+10. [Programming](#programming)
+11. [Theoretical Informatics](#theoretical-informatics)
+12. [Trading & Economics](#trading--economics)
+13. [Machine Learning](#machine-learning)
+
 
 <hr>
 
@@ -28,6 +32,23 @@ Personal list of books I have read. The file was created for inspiration and tip
 | ----------- | ----------- |
 | Essential Cell Biology: An Introduction to the Molecular Biology of the Cell | Bruce Alberts, Dennis Bray, Alexander Johnson, Julian Lewis, Martin Raff, Keith Robert and Peter Walter |
 
+## Bitcoin & Crypto
+| Book        | Author |
+| ----------- | ----------- |
+| Bitcoin Money: A Tale of Bitville Discovering Good Money (Braiins Publishing version) |  Michael Caras and Marina Yakubivska |
+| Bitcoin Mining Handbook | Daniel Frumkin et. al. |
+| Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto |
+| Bitcoin: Separation of Money and State | Josef Tětek |
+| Ethereum Yellow Paper | Gavin Wood |
+| Grokking Bitcoin | Kalle Rosenbaum |
+| Mastering Bitcoin: Programming the Open Blockchain, 3rd Edition | Andreas M. Antonopoulos and David A. Harding |
+| Mastering Ethereum: Implementing Digital Contracts | Andreas M. Antonopoulos and Dr. Gavin Wood |
+| Measuring Value | Nick Szabo |
+| Programming Bitcoin: Learn How to Program Bitcoin from Scratch | Jimmy Song |
+| Shelling Out: The Origins of Money | Nick Szabo |
+| Solana: A new architecture for a high performance blockchain v0.8.14 | Anatoly Yakovenko |
+| The Bullish Case for Bitcoin (Braiins Publishing version) | Vijay Boyapati |
+
 ## Classic & World Literature
 | Book                    | Author |
 |-------------------------| ----------- |
@@ -40,13 +61,6 @@ Personal list of books I have read. The file was created for inspiration and tip
 | The Metamorphosis       | Franz Kafka |
 | 1984                    | George Orwell |
 
-## Digital Signal Processing
-| Book                    | Author |
-|-------------------------| ----------- |
-| Audio Effects: Theory, Implementation and Application | Joshua D. Reiss, Andrew P. McPherson |
-| DAFX: Digital Audio Effects | Udo Zölzer |
-| Fundamentals of Music Processing: Audio, Analysis, Algorithms, Applications | Meinard Müller |
-
 ## Fun
 | Book        | Author |
 | ----------- | ----------- |
@@ -58,30 +72,52 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Harry Potter and the Cursed Child: Parts One and Two | J. K. Rowling |
 | Harry Potter and the Philosopher’s Stone | J. K. Rowling |
 | It Was On Fire When I Lay Down On It | Robert Fulghum |
+| Origin | Dan Brown |
 | The Hobbit: or There and Back Again | John Ronald Reuel Tolkien |
 | The Lost Symbol | Dan Brown |
 | The Snowman | Jo Nesbø |
 | The Three-Body Problem | Liu Cixin |
 
-## High Dynamic Range Imaging
+## Graphics & High Dynamic Range Imaging
 | Book        | Author |
 | ----------- | ----------- |
 | High Dynamic Range Imaging: Acquisition, Display, and Image-Based Lighting | Erik Reinhard, Greg Ward, Sumanta Pattanaik, Paul Debevec, Wolfgang Heidrich, Karol Myszkowski |
 
+## Languages
+| Book        | Author |
+| ----------- | ----------- |
+| English Pronunciation in Use Elementary Book | Jonathan Marks |
+| Ship or Sheep?: An intermediate pronunciation course | Ann Baker |
+
+## Music & Digital Signal Processing
+| Book                    | Author |
+|-------------------------| ----------- |
+| ABC hudební nauky (English: The ABCs of Music Theory) | Luděk Zenkl |
+| ABC hudebních forem (English: ABC of musical forms) | Luděk Zenkl |
+| Audio Effects: Theory, Implementation and Application | Joshua D. Reiss, Andrew P. McPherson |
+| DAFX: Digital Audio Effects | Udo Zölzer |
+| Fundamentals of Music Processing: Audio, Analysis, Algorithms, Applications | Meinard Müller |
+
 ## Personal Growth & Self Improvement
 | Book        | Author |
 | ----------- | ----------- |
+| 12 Rules for Life: An Antidote to Chaos | Jordan B. Peterson |
 | Bluffer's Guide to Small Business: Bluff Your Way in Small Business | John Winterson Richards |
 | Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time | Brian Tracy |
 | Emotional Intelligence | Daniel Goleman |
 | How to Drive: the Ultimate Guide, from the Man Who Was The Stig | Ben Collins |
 | How to Stop Worrying and Start Living | Dale Carnegie |
 | How to Win Friends and Influence People | Dale Carnegie |
+| Influence: The Psychology of Persuasion | Robert B. Cialdini |
 | Konec prokrastinace: Jak přestat odkládat a začít žít naplno (English: The End of Procrastination: How to Stop Procrastinating and Start Living to the Fullest) | Petr Ludwig |
+| Labyrint pohybu (English: Labyrinth of movement)| Pavel Kolář and Renata Červenková |
 | Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life | Jim Kwik |
+| Nová velká kniha etikety (English: The New Big Book of Etiquette) | Ladislav Špaček |
 | Posilování stresem : cesta k odolnosti (English: Strengthening with stress: the path to resilience) | Pavel Kolář |
 | Teach Yourself How to Learn | Saundra Yancy McGuire |
 | TED Talks: The Official TED Guide to Public Speaking | Chris Anderson |
+| The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living | Ryan Holiday and Stephen Hanselman |
+| The Miracle of Mindfulness | Thich Nhat Hanh |
 | The Pomodoro Technique: The Life-Changing Time-Management System | Francesco Cirillo |
 | The Power of Habit: Why We Do What We Do in Life and Business | Charles Duhigg |
 | The Richest Man in Babylon | George S. Clason |
@@ -93,15 +129,17 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! | Robert T. Kiyosaki |
 | Steal Like an Artist: 10 Things Nobody Told You About Being Creative | Austin Kleon |
 | Start With Why | Simon Sinek |
+| Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life | Jon Kabat-Zinn |
 | Who Moved My Cheese? | Spencer Johnson, M. D. |
 | Why We Sleep | Matthew Walker, PhD |
 
-## Programming
+## Programming & Computer Science
 | Book        | Author |
 | ----------- | ----------- |
 | C Programming Language, 2nd Edition | Brian W. Kernighan and Dennis M. Ritchie |
 | Cartesian Genetic Programming | Julian F. Miller |
 | Competitive Programmer’s Handbook | Antti Laaksonen |
+| Computer Architecture: A Quantitative Approach | John L. Hennessy and David A. Patterson |
 | Hradla, volty, jednočipy (English: Gates, volts, microcontrollers) | Martin Malý |
 | Learn You a Haskell for Great Good!: A Beginner's Guide | Miran Lipovaca |
 | Producing Open Source Software: How to Run a Successful Free Software Project | Karl Fogel |
@@ -118,7 +156,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Handbook of Formal Languages: Volume 1. Word, Language, Grammar |  Grzegorz Rozenberg and Arto Salomaa |
 | Regulated Grammars and Automata | prof. RNDr. Alexander Meduna, CSc. and Petr Zemek, PhD |
 
-## Trading, Economics
+## Trading & Economics
 | Book        | Author |
 | ----------- | ----------- |
 | Advances in Financial Machine Learning | Marcos Lopez de Prado |
@@ -138,19 +176,3 @@ Personal list of books I have read. The file was created for inspiration and tip
 | A Brief Introduction to Neural Networks | David Kriesel |
 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig |
 | The Hundred-Page Machine Learning Book | Andriy Burkov |
-
-
-## Bitcoin & Crypto
-| Book        | Author |
-| ----------- | ----------- |
-| Bitcoin Money: A Tale of Bitville Discovering Good Money (Braiins Publishing version) |  Michael Caras and Marina Yakubivska |
-| Bitcoin Mining Handbook | Daniel Frumkin et. al. |
-| Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto |
-| Bitcoin: Separation of Money and State | Josef Tětek |
-| Grokking Bitcoin | Kalle Rosenbaum |
-| Mastering Bitcoin: Programming the Open Blockchain, 3rd Edition | Andreas M. Antonopoulos and David A. Harding |
-| Mastering Ethereum: Implementing Digital Contracts | Andreas M. Antonopoulos and Dr. Gavin Wood |
-| Measuring Value | Nick Szabo |
-| Shelling Out: The Origins of Money | Nick Szabo |
-| The Bullish Case for Bitcoin (Braiins Publishing version) | Vijay Boyapati |
-
