@@ -37,8 +37,10 @@ Personal list of books I have read. The file was created for inspiration and tip
 | ----------- | ----------- |
 | Bitcoin Money: A Tale of Bitville Discovering Good Money (Braiins Publishing version) |  Michael Caras and Marina Yakubivska |
 | Bitcoin Mining Handbook | Daniel Frumkin et. al. |
+| Bitcoin Programming | Konstantinos Karasavvas |
 | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto |
 | Bitcoin: Separation of Money and State | Josef Tětek |
+| Cryptoeconomics: Fundamental Principles of Bitcoin | Eric Voskuil |
 | Ethereum Yellow Paper | Gavin Wood |
 | Grokking Bitcoin | Kalle Rosenbaum |
 | Mastering Bitcoin: Programming the Open Blockchain, 3rd Edition | Andreas M. Antonopoulos and David A. Harding |
@@ -116,6 +118,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Posilování stresem : cesta k odolnosti (English: Strengthening with stress: the path to resilience) | Pavel Kolář |
 | Teach Yourself How to Learn | Saundra Yancy McGuire |
 | TED Talks: The Official TED Guide to Public Speaking | Chris Anderson |
+| The Daily Blueprint: Science-backed tools and protocols to maximize your productivity, physical, and mental health | Dr. Andrew Huberman |
 | The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living | Ryan Holiday and Stephen Hanselman |
 | The Miracle of Mindfulness | Thich Nhat Hanh |
 | The Pomodoro Technique: The Life-Changing Time-Management System | Francesco Cirillo |
@@ -156,13 +159,15 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Handbook of Formal Languages: Volume 1. Word, Language, Grammar |  Grzegorz Rozenberg and Arto Salomaa |
 | Regulated Grammars and Automata | prof. RNDr. Alexander Meduna, CSc. and Petr Zemek, PhD |
 
-## Trading & Economics
+## Investing & Trading & Economics
 | Book        | Author |
 | ----------- | ----------- |
 | Advances in Financial Machine Learning | Marcos Lopez de Prado |
 | Jak se stát forexovým obchodníkem (English: How to become a forex trader) | Ondřej Hartman |
 | Jak se stát mistrem v tradingu (English: How to become a trading master) | Ludvík Turek and Roman Dvořák|
+| Jesse Livermore: World's Greatest Stock Trader | Richard Smitten |
 | Price Action | Ludvík Turek |
+| Reminiscences of a Stock Operator | Edwin Lefèvre |
 | The Disciplined Trader: Developing Winning Attitudes | Mark Douglas |
 | Trading in the zone | Mark Douglas |
 | Machine Learning for Algorithmic Trading | Stefan Jansen |
