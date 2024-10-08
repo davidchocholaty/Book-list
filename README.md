@@ -13,7 +13,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 9.  [Personal Growth & Self Improvement](#personal-growth--self-improvement)
 10. [Programming](#programming)
 11. [Theoretical Informatics](#theoretical-informatics)
-12. [Trading & Economics](#trading--economics)
+12. [Investing & Trading & Economics](#investing--trading--economics)
 13. [Machine Learning](#machine-learning)
 
 
@@ -179,5 +179,11 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Book        | Author |
 | ----------- | ----------- |
 | A Brief Introduction to Neural Networks | David Kriesel |
+| An Introduction to Statistical Learning with Applications in R | Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani |
 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig |
+| Deep Learning | Ian Goodfellow, Yoshua Bengio, and Aaron Courville |
+| Deep Learning with Python | François Chollet |
+| Dive into Deep Learning | Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola |
+| Pattern Classification | Richard O. Duda, Peter E. Hart, and David G. Stork |
+| Probabilistic Machine Learning: An Introduction | Kevin Patrick Murphy |
 | The Hundred-Page Machine Learning Book | Andriy Burkov |
