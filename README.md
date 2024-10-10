@@ -4,7 +4,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 ## Topics
 1.  [Biographies](#biographies)
 2.  [Biology](#biology)
-3.  [Bitcoin & Crypto](#bitcoin--crypto)
+3.  [Bitcoin & Blockchain](#bitcoin--blockchain)
 4.  [Classic & World Literature](#classic--world-literature)
 5.  [Fun](#fun)
 6.  [Graphics & High Dynamic Range Imaging](#graphics--high-dynamic-range-imaging)
@@ -32,10 +32,11 @@ Personal list of books I have read. The file was created for inspiration and tip
 | ----------- | ----------- |
 | Essential Cell Biology: An Introduction to the Molecular Biology of the Cell | Bruce Alberts, Dennis Bray, Alexander Johnson, Julian Lewis, Martin Raff, Keith Robert and Peter Walter |
 
-## Bitcoin & Crypto
+## Bitcoin & Blockchain
 | Book        | Author |
 | ----------- | ----------- |
 | Bitcoin Money: A Tale of Bitville Discovering Good Money (Braiins Publishing version) |  Michael Caras and Marina Yakubivska |
+| Bitcoin Mining Glossary | Braiins |
 | Bitcoin Mining Handbook | Daniel Frumkin et. al. |
 | Bitcoin Programming | Konstantinos Karasavvas |
 | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto |
@@ -144,6 +145,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Competitive Programmer’s Handbook | Antti Laaksonen |
 | Computer Architecture: A Quantitative Approach | John L. Hennessy and David A. Patterson |
 | Hradla, volty, jednočipy (English: Gates, volts, microcontrollers) | Martin Malý |
+| Introduction to Algorithms (fourth edition) | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein |
 | Learn You a Haskell for Great Good!: A Beginner's Guide | Miran Lipovaca |
 | Producing Open Source Software: How to Run a Successful Free Software Project | Karl Fogel |
 | Průvodce labyrintem algoritmů (English: Guide through the labyrinth of algorithms) | Martin Mareš, Tomáš Valla |
@@ -166,9 +168,11 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Jak se stát forexovým obchodníkem (English: How to become a forex trader) | Ondřej Hartman |
 | Jak se stát mistrem v tradingu (English: How to become a trading master) | Ludvík Turek and Roman Dvořák|
 | Jesse Livermore: World's Greatest Stock Trader | Richard Smitten |
+| People Are Lying To You About Money: Crucial Insights To Make Better Financial Decisions And Live The Life You Deserve | Anthony Walsh |
 | Price Action | Ludvík Turek |
 | Reminiscences of a Stock Operator | Edwin Lefèvre |
 | The Disciplined Trader: Developing Winning Attitudes | Mark Douglas |
+| The Intelligent Investor Rev Ed.: The Definitive Book on Value Investing | Benjamin Graham, Jason Zweig, Warren E. Buffett |
 | Trading in the zone | Mark Douglas |
 | Machine Learning for Algorithmic Trading | Stefan Jansen |
 | MICHLiq inteligentní průvodce ekonomikou (English: MICHLiq the smart economy guide) | Aleš Michl |
@@ -185,5 +189,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Deep Learning with Python | François Chollet |
 | Dive into Deep Learning | Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola |
 | Pattern Classification | Richard O. Duda, Peter E. Hart, and David G. Stork |
+| Pattern Recognition and Machine Learning | Christopher Bishop |
 | Probabilistic Machine Learning: An Introduction | Kevin Patrick Murphy |
+| Reinforcement Learning: An Introduction (second edition) | Richard S. Sutton and Andrew G. Barto |
 | The Hundred-Page Machine Learning Book | Andriy Burkov |
