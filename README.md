@@ -142,6 +142,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | ----------- | ----------- |
 | C Programming Language, 2nd Edition | Brian W. Kernighan and Dennis M. Ritchie |
 | Cartesian Genetic Programming | Julian F. Miller |
+| Clean Code: A Handbook of Agile Software Craftsmanship | Robert C. Martin |
 | Competitive Programmer’s Handbook | Antti Laaksonen |
 | Computer Architecture: A Quantitative Approach | John L. Hennessy and David A. Patterson |
 | Hradla, volty, jednočipy (English: Gates, volts, microcontrollers) | Martin Malý |
