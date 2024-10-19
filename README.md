@@ -174,6 +174,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Reminiscences of a Stock Operator | Edwin Lefèvre |
 | The Disciplined Trader: Developing Winning Attitudes | Mark Douglas |
 | The Intelligent Investor Rev Ed.: The Definitive Book on Value Investing | Benjamin Graham, Jason Zweig, Warren E. Buffett |
+| The Psychology of Money: Timeless lessons on wealth, greed, and happiness | Morgan Housel |
 | Trading in the zone | Mark Douglas |
 | Machine Learning for Algorithmic Trading | Stefan Jansen |
 | MICHLiq inteligentní průvodce ekonomikou (English: MICHLiq the smart economy guide) | Aleš Michl |
