@@ -107,6 +107,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | ----------- | ----------- |
 | 12 Rules for Life: An Antidote to Chaos | Jordan B. Peterson |
 | Bluffer's Guide to Small Business: Bluff Your Way in Small Business | John Winterson Richards |
+| Deep Work: Rules for Focused Success in a Distracted World | Cal Newport |
 | Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time | Brian Tracy |
 | Emotional Intelligence | Daniel Goleman |
 | How to Drive: the Ultimate Guide, from the Man Who Was The Stig | Ben Collins |
