@@ -44,6 +44,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Cryptoeconomics: Fundamental Principles of Bitcoin | Eric Voskuil |
 | Ethereum Yellow Paper | Gavin Wood |
 | Grokking Bitcoin | Kalle Rosenbaum |
+| Lightning Network: platby budoucnosti (English: Lightning Network: Payments of the Future) | Michal Novák |
 | Mastering Bitcoin: Programming the Open Blockchain, 3rd Edition | Andreas M. Antonopoulos and David A. Harding |
 | Mastering Ethereum: Implementing Digital Contracts | Andreas M. Antonopoulos and Dr. Gavin Wood |
 | Mastering the Lightning Network: A Second Layer Blockchain Protocol for Instant Bitcoin Payments |  Andreas M. Antonopoulos, Olaoluwa Osuntokun, and Rene Pickhardt  |
@@ -107,6 +108,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Book        | Author |
 | ----------- | ----------- |
 | 12 Rules for Life: An Antidote to Chaos | Jordan B. Peterson |
+| Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones | James Clear |
 | Bluffer's Guide to Small Business: Bluff Your Way in Small Business | John Winterson Richards |
 | Deep Work: Rules for Focused Success in a Distracted World | Cal Newport |
 | Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time | Brian Tracy |
@@ -129,6 +131,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | The Power of Habit: Why We Do What We Do in Life and Business | Charles Duhigg |
 | The Richest Man in Babylon | George S. Clason |
 | The Secret Language of Success: Using Body Language to Get What You Want | David Lewis |
+| The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life | Mark Manson |
 | The 4-Hour Workweek | Timothy Ferriss |
 | The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change | Stephen R. Covey |
 | Think Your Way to Wealth | Napoleon Hill |
