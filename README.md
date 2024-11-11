@@ -36,7 +36,9 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Book        | Author |
 | ----------- | ----------- |
 | Bitcoin Money: A Tale of Bitville Discovering Good Money (Braiins Publishing version) |  Michael Caras and Marina Yakubivska |
+| Bitcoin: návrat zdravých peněz (English: Bitcoin: The Return of Sound Money) | Josef Tětek |
 | Bitcoin Mining Glossary | Braiins |
+| Bitcoin Mining Economics: Exploring the fundamentals of bitcoin mining | Daniel Frumkin |
 | Bitcoin Mining Handbook | Daniel Frumkin et. al. |
 | Bitcoin Programming | Konstantinos Karasavvas |
 | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto |
@@ -52,6 +54,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Programming Bitcoin: Learn How to Program Bitcoin from Scratch | Jimmy Song |
 | Shelling Out: The Origins of Money | Nick Szabo |
 | Solana: A new architecture for a high performance blockchain v0.8.14 | Anatoly Yakovenko |
+| The Bitcoin Standard: The Decentralized Alternative to Central Banking | Saifedean Ammous |
 | The Bullish Case for Bitcoin (Braiins Publishing version) | Vijay Boyapati |
 | Velká kniha o Bitcoinu aneb Finanční gramotnost pro každého (English: The Big Book of Bitcoin or Financial Literacy for Everyone) | Kamil Bouška |
 
