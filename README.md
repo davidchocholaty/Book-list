@@ -35,6 +35,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 ## Bitcoin & Blockchain
 | Book        | Author |
 | ----------- | ----------- |
+| 21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole | Gigi |
 | Bitcoin Money: A Tale of Bitville Discovering Good Money (Braiins Publishing version) |  Michael Caras and Marina Yakubivska |
 | Bitcoin: návrat zdravých peněz (English: Bitcoin: The Return of Sound Money) | Josef Tětek |
 | Bitcoin Mining Glossary | Braiins |
