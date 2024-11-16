@@ -47,6 +47,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Cryptoeconomics: Fundamental Principles of Bitcoin | Eric Voskuil |
 | Ethereum Yellow Paper | Gavin Wood |
 | Grokking Bitcoin | Kalle Rosenbaum |
+| Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Explained | Yan Pritzker |
 | Lightning Network: platby budoucnosti (English: Lightning Network: Payments of the Future) | Michal Novák |
 | Mastering Bitcoin: Programming the Open Blockchain, 3rd Edition | Andreas M. Antonopoulos and David A. Harding |
 | Mastering Ethereum: Implementing Digital Contracts | Andreas M. Antonopoulos and Dr. Gavin Wood |
