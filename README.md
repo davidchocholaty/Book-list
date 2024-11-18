@@ -44,6 +44,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Bitcoin Programming | Konstantinos Karasavvas |
 | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto |
 | Bitcoin: Separation of Money and State | Josef Tětek |
+| Bitcoin: Technical innovations from the trenches | Sjors Provoost |
 | Cryptoeconomics: Fundamental Principles of Bitcoin | Eric Voskuil |
 | Ethereum Yellow Paper | Gavin Wood |
 | Grokking Bitcoin | Kalle Rosenbaum |
