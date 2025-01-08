@@ -161,6 +161,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Hradla, volty, jednočipy (English: Gates, volts, microcontrollers) | Martin Malý |
 | Introduction to Algorithms (fourth edition) | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein |
 | Learn You a Haskell for Great Good!: A Beginner's Guide | Miran Lipovaca |
+| Network Routing: Algorithms, Protocols, and Architectures (The Morgan Kaufmann Series in Networking) | Deepankar Medhi |
 | Producing Open Source Software: How to Run a Successful Free Software Project | Karl Fogel |
 | Průvodce labyrintem algoritmů (English: Guide through the labyrinth of algorithms) | Martin Mareš, Tomáš Valla |
 | The Rust Programming Language | Steve Klabnik, Carol Nichols and the Rust Community |
