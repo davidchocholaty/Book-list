@@ -153,6 +153,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 ## Programming & Computer Science
 | Book        | Author |
 | ----------- | ----------- |
+| A Guide to the Project Management Body of Knowledge (PMBOK GUIDE) | Project Management Institute |
 | C Programming Language, 2nd Edition | Brian W. Kernighan and Dennis M. Ritchie |
 | Cartesian Genetic Programming | Julian F. Miller |
 | Clean Code: A Handbook of Agile Software Craftsmanship | Robert C. Martin |
