@@ -85,10 +85,12 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Harry Potter and the Philosopher’s Stone | J. K. Rowling |
 | It Was On Fire When I Lay Down On It | Robert Fulghum |
 | Origin | Dan Brown |
+| SÍ, VOLE! | Pavel Liška, Jan Révai, and Hynek Bernard |
 | The Hobbit: or There and Back Again | John Ronald Reuel Tolkien |
 | The Lost Symbol | Dan Brown |
 | The Snowman | Jo Nesbø |
 | The Three-Body Problem | Liu Cixin |
+| Theatro vagamundos | Pavel Liška, Jan Révai, and Hynek Bernard |
 
 ## Graphics & High Dynamic Range Imaging
 | Book        | Author |
@@ -181,6 +183,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Book        | Author |
 | ----------- | ----------- |
 | Advances in Financial Machine Learning | Marcos Lopez de Prado |
+| Economics: 18th Edition | Paul A. Samuelson and William D. Nordhaus |
 | Jak se stát forexovým obchodníkem (English: How to become a forex trader) | Ondřej Hartman |
 | Jak se stát mistrem v tradingu (English: How to become a trading master) | Ludvík Turek and Roman Dvořák|
 | Jesse Livermore: World's Greatest Stock Trader | Richard Smitten |
