@@ -189,13 +189,18 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Jesse Livermore: World's Greatest Stock Trader | Richard Smitten |
 | People Are Lying To You About Money: Crucial Insights To Make Better Financial Decisions And Live The Life You Deserve | Anthony Walsh |
 | Price Action | Ludvík Turek |
+| Principles of Economics (7th Edition) | N. Gregory Mankiw |
 | Reminiscences of a Stock Operator | Edwin Lefèvre |
 | The Disciplined Trader: Developing Winning Attitudes | Mark Douglas |
 | The Intelligent Investor Rev Ed.: The Definitive Book on Value Investing | Benjamin Graham, Jason Zweig, Warren E. Buffett |
 | The Psychology of Money: Timeless lessons on wealth, greed, and happiness | Morgan Housel |
 | Trading in the zone | Mark Douglas |
 | Machine Learning for Algorithmic Trading | Stefan Jansen |
+| Macroeconomics | Jindřich Soukup, Vít Pošta, Pavel Neset, and Tomáš Pavelka |
+| Macroeconomics: Basic Course | Rusmichová, et al. |
+| Macroeconomics: Intermediate Course | Robert Holman |
 | MICHLiq inteligentní průvodce ekonomikou (English: MICHLiq the smart economy guide) | Aleš Michl |
+| Microeconomics | Bronislava Hořejší, Jana Soukupová, Libuše Macáková, and Jindřich Soukup |
 | Moderní ekonomie: jednoduše o všem, co byste měli vědět (English: Modern economics: simply about everything you should know) | Hana Lipovská |
 | What Has Government Done to Our Money? | Murray N. Rothbard |
 
