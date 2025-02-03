@@ -142,6 +142,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life | Mark Manson |
 | The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It | Kelly McGonigal |
 | The 4-Hour Workweek | Timothy Ferriss |
+| The 5 Love Languages: The Secret to Love that Lasts | Gary Chapman |
 | The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change | Stephen R. Covey |
 | Think Your Way to Wealth | Napoleon Hill |
 | This Is Marketing You Can’t Be Seen Until You Learn to See | Seth Godin |
