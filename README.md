@@ -141,6 +141,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | The Secret Language of Success: Using Body Language to Get What You Want | David Lewis |
 | The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life | Mark Manson |
 | The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It | Kelly McGonigal |
+| The Wim Hof Method Explained | Isabelle Hof |
 | The 4-Hour Workweek | Timothy Ferriss |
 | The 5 Love Languages: The Secret to Love that Lasts | Gary Chapman |
 | The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change | Stephen R. Covey |
