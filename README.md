@@ -117,6 +117,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | ----------- | ----------- |
 | 12 Rules for Life: An Antidote to Chaos | Jordan B. Peterson |
 | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones | James Clear |
+| Becoming the Iceman: Pushing Past Perceived Limits | Wim Hof and Justin Rosales |
 | Bluffer's Guide to Small Business: Bluff Your Way in Small Business | John Winterson Richards |
 | Deep Work: Rules for Focused Success in a Distracted World | Cal Newport |
 | Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time | Brian Tracy |
@@ -140,6 +141,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | The Richest Man in Babylon | George S. Clason |
 | The Secret Language of Success: Using Body Language to Get What You Want | David Lewis |
 | The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life | Mark Manson |
+| The Way of The Iceman: How The Wim Hof Method Creates Radiant, Longterm Health―Using The Science and Secrets of Breath Control, Cold-Training and Commitment | Wim Hof and Koen de Jong |
 | The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It | Kelly McGonigal |
 | The Wim Hof Method Explained | Isabelle Hof |
 | The 4-Hour Workweek | Timothy Ferriss |
