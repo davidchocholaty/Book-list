@@ -187,6 +187,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Book        | Author |
 | ----------- | ----------- |
 | Advances in Financial Machine Learning | Marcos Lopez de Prado |
+| An Essay on Economic Theory | Richard Cantillon |
 | Economics: 18th Edition | Paul A. Samuelson and William D. Nordhaus |
 | Jak se stát forexovým obchodníkem (English: How to become a forex trader) | Ondřej Hartman |
 | Jak se stát mistrem v tradingu (English: How to become a trading master) | Ludvík Turek and Roman Dvořák|
