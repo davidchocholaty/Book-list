@@ -45,6 +45,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto |
 | Bitcoin: Separation of Money and State | Josef Tětek |
 | Bitcoin: Technical innovations from the trenches | Sjors Provoost |
+| Building Bitcoin in Rust | Lukáš Hozda |
 | Cryptoeconomics: Fundamental Principles of Bitcoin | Eric Voskuil |
 | Ethereum Yellow Paper | Gavin Wood |
 | Grokking Bitcoin | Kalle Rosenbaum |
@@ -118,6 +119,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | 12 Rules for Life: An Antidote to Chaos | Jordan B. Peterson |
 | Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones | James Clear |
 | Becoming the Iceman: Pushing Past Perceived Limits | Wim Hof and Justin Rosales |
+| Bible: Překlad 21. století (English: Bible: 21st Century Translation) | Alexandr Flek, B.A., M.Th., et al. |
 | Bluffer's Guide to Small Business: Bluff Your Way in Small Business | John Winterson Richards |
 | Deep Work: Rules for Focused Success in a Distracted World | Cal Newport |
 | Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time | Brian Tracy |
