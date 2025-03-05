@@ -133,6 +133,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life | Jim Kwik |
 | Nová velká kniha etikety (English: The New Big Book of Etiquette) | Ladislav Špaček |
 | Posilování stresem : cesta k odolnosti (English: Strengthening with stress: the path to resilience) | Pavel Kolář |
+| Standardy první pomoci (English: First Aid Standards) | collective of authors |
 | Teach Yourself How to Learn | Saundra Yancy McGuire |
 | TED Talks: The Official TED Guide to Public Speaking | Chris Anderson |
 | The Daily Blueprint: Science-backed tools and protocols to maximize your productivity, physical, and mental health | Dr. Andrew Huberman |
