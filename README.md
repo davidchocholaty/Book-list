@@ -131,6 +131,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Konec prokrastinace: Jak přestat odkládat a začít žít naplno (English: The End of Procrastination: How to Stop Procrastinating and Start Living to the Fullest) | Petr Ludwig |
 | Labyrint pohybu (English: Labyrinth of movement)| Pavel Kolář and Renata Červenková |
 | Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life | Jim Kwik |
+| Meditations | Marcus Aurelius |
 | Nová velká kniha etikety (English: The New Big Book of Etiquette) | Ladislav Špaček |
 | Posilování stresem : cesta k odolnosti (English: Strengthening with stress: the path to resilience) | Pavel Kolář |
 | Standardy první pomoci (English: First Aid Standards) | collective of authors |
@@ -158,6 +159,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life | Jon Kabat-Zinn |
 | Who Moved My Cheese? | Spencer Johnson, M. D. |
 | Why We Sleep | Matthew Walker, PhD |
+| Zero to One: Notes on Startups, or How to Build the Future | Peter Thiel and Blake Masters |
 
 ## Programming & Computer Science
 | Book        | Author |
