@@ -69,8 +69,10 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Hamlet                  | William Shakespeare |
 | The Old Man and the Sea | Ernest Hemingway |
 | Of Mice and Men         | John Steinbeck |
-| The Miser               | Moliére |
+| Propaganda              | Edward Bernays |
 | The Little Prince       | Antoine de Saint-Exupéry |
+| The Miser               | Moliére |
+| The Plague              | Albert Camus |
 | The Metamorphosis       | Franz Kafka |
 | 1984                    | George Orwell |
 
@@ -153,6 +155,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change | Stephen R. Covey |
 | Think Your Way to Wealth | Napoleon Hill |
 | This Is Marketing You Can’t Be Seen Until You Learn to See | Seth Godin |
+| Tools Of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers | Timothy Ferriss |
 | Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! | Robert T. Kiyosaki |
 | Steal Like an Artist: 10 Things Nobody Told You About Being Creative | Austin Kleon |
 | Start With Why | Simon Sinek |
@@ -188,22 +191,26 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Handbook of Formal Languages: Volume 1. Word, Language, Grammar |  Grzegorz Rozenberg and Arto Salomaa |
 | Regulated Grammars and Automata | prof. RNDr. Alexander Meduna, CSc. and Petr Zemek, PhD |
 
-## Investing & Trading & Economics
+## Investing & Trading & Economics & Business
 | Book        | Author |
 | ----------- | ----------- |
 | Advances in Financial Machine Learning | Marcos Lopez de Prado |
 | An Essay on Economic Theory | Richard Cantillon |
+| Built from Scratch: How a Couple of Regular Guys Grew The Home Depot from Nothing to $30 Billion |  Bernie Marcus, Arthur Blank, and Bob Andelman |
 | Economics: 18th Edition | Paul A. Samuelson and William D. Nordhaus |
 | Jak se stát forexovým obchodníkem (English: How to become a forex trader) | Ondřej Hartman |
 | Jak se stát mistrem v tradingu (English: How to become a trading master) | Ludvík Turek and Roman Dvořák|
 | Jesse Livermore: World's Greatest Stock Trader | Richard Smitten |
 | People Are Lying To You About Money: Crucial Insights To Make Better Financial Decisions And Live The Life You Deserve | Anthony Walsh |
 | Price Action | Ludvík Turek |
+| Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger, Expanded Third Edition | Peter D. Kaufman, Ed Wexler, Warren E. Buffett, and Charles T. Munger |
 | Principles of Economics (7th Edition) | N. Gregory Mankiw |
 | Reminiscences of a Stock Operator | Edwin Lefèvre |
+| Sam Walton: Made In America | Sam Walton and John Huey |
 | The Disciplined Trader: Developing Winning Attitudes | Mark Douglas |
 | The Intelligent Investor Rev Ed.: The Definitive Book on Value Investing | Benjamin Graham, Jason Zweig, Warren E. Buffett |
 | The Psychology of Money: Timeless lessons on wealth, greed, and happiness | Morgan Housel |
+| The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company | Robert Iger |
 | Trading in the zone | Mark Douglas |
 | Machine Learning for Algorithmic Trading | Stefan Jansen |
 | Macroeconomics | Jindřich Soukup, Vít Pošta, Pavel Neset, and Tomáš Pavelka |
