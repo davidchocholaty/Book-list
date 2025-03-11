@@ -59,6 +59,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Shelling Out: The Origins of Money | Nick Szabo |
 | Solana: A new architecture for a high performance blockchain v0.8.14 | Anatoly Yakovenko |
 | The Bitcoin Standard: The Decentralized Alternative to Central Banking | Saifedean Ammous |
+| The Blocksize War: The battle over who controls Bitcoin’s protocol rules | Jonathan Bier |
 | The Bullish Case for Bitcoin (Braiins Publishing version) | Vijay Boyapati |
 | Velká kniha o Bitcoinu aneb Finanční gramotnost pro každého (English: The Big Book of Bitcoin or Financial Literacy for Everyone) | Kamil Bouška |
 
