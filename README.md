@@ -83,11 +83,14 @@ Personal list of books I have read. The file was created for inspiration and tip
 | All I Really Need to Know I Learned in Kindergarten: Uncommon Thoughts on Common Things | Robert Fulghum |
 | Deception Point | Dan Brown |
 | Digital Fortress | Dan Brown |
+| Dune | Frank Herbert |
 | From Beginning to End: The Rituals of Our Lives | Robert Fulghum |
 | Harry Potter and the Chamber of Secrets | J. K. Rowling |
 | Harry Potter and the Cursed Child: Parts One and Two | J. K. Rowling |
 | Harry Potter and the Philosopher’s Stone | J. K. Rowling |
 | It Was On Fire When I Lay Down On It | Robert Fulghum |
+| Metro 2033 | Dmitry Glukhovsky |
+| Metro 2034 | Dmitry Glukhovsky |
 | Origin | Dan Brown |
 | SÍ, VOLE! | Pavel Liška, Jan Révai, and Hynek Bernard |
 | The Hobbit: or There and Back Again | John Ronald Reuel Tolkien |
