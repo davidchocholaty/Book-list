@@ -89,6 +89,8 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Harry Potter and the Cursed Child: Parts One and Two | J. K. Rowling |
 | Harry Potter and the Philosopher’s Stone | J. K. Rowling |
 | It Was On Fire When I Lay Down On It | Robert Fulghum |
+| Krajinou vína - Cestopis o putování za vínem, příběhy odrůd a pozoruhodností vinařských oblastí (English: Through the Wine Country - A travelogue about wine travels, stories of varieties and highlights of wine regions) | Václav Žmolík |
+| Krajinou vína 2 | Václav Žmolík |
 | Metro 2033 | Dmitry Glukhovsky |
 | Metro 2034 | Dmitry Glukhovsky |
 | Origin | Dan Brown |
@@ -211,10 +213,12 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Principles of Economics (7th Edition) | N. Gregory Mankiw |
 | Reminiscences of a Stock Operator | Edwin Lefèvre |
 | Sam Walton: Made In America | Sam Walton and John Huey |
+| Shoe Dog: A Memoir by the Creator of Nike | Phil Knight |
 | The Disciplined Trader: Developing Winning Attitudes | Mark Douglas |
 | The Intelligent Investor Rev Ed.: The Definitive Book on Value Investing | Benjamin Graham, Jason Zweig, Warren E. Buffett |
 | The Psychology of Money: Timeless lessons on wealth, greed, and happiness | Morgan Housel |
 | The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company | Robert Iger |
+| The Trading Game: A Confession | Gary Stevenson |
 | Trading in the zone | Mark Douglas |
 | Machine Learning for Algorithmic Trading | Stefan Jansen |
 | Macroeconomics | Jindřich Soukup, Vít Pošta, Pavel Neset, and Tomáš Pavelka |
