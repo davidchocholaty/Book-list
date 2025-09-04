@@ -77,6 +77,14 @@ Personal list of books I have read. The file was created for inspiration and tip
 | The Metamorphosis       | Franz Kafka |
 | 1984                    | George Orwell |
 
+## Fishing
+| Book        | Author |
+| ----------- | ----------- |
+| Cesta Muškaře (English: The Way of the Fly Fisherman) | Milan Steuer |
+| Flyfishing World | Luboš Roza |
+| Okouzlující muškaření (English: Charming Fly Fishing) | Josef Šebela |
+| Velká kniha rad pro rybáře (English: The Big Book of Advice for Anglers) |  Florian Läufer |
+
 ## Fun
 | Book        | Author |
 | ----------- | ----------- |
