@@ -95,8 +95,11 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Metro 2034 | Dmitry Glukhovsky |
 | Origin | Dan Brown |
 | SÍ, VOLE! | Pavel Liška, Jan Révai, and Hynek Bernard |
+| Stezka Českem : může jít každý (English: Trail through the Czech Republic: anyone can go) | Martin Úbl & friends |
 | The Hobbit: or There and Back Again | John Ronald Reuel Tolkien |
+| The Leopard | Jo Nesbø |
 | The Lost Symbol | Dan Brown |
+| The Shining | Stephen King |
 | The Snowman | Jo Nesbø |
 | The Three-Body Problem | Liu Cixin |
 | Theatro vagamundos | Pavel Liška, Jan Révai, and Hynek Bernard |
