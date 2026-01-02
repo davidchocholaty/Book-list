@@ -88,8 +88,10 @@ Personal list of books I have read. The file was created for inspiration and tip
 ## Fun
 | Book        | Author |
 | ----------- | ----------- |
+| Adam Dolník: Svět elitního vyjednavače (English: Adam Dolník: The World of an Elite Negotiator) | Martin Moravec, Adam Dolník |
 | All I Really Need to Know I Learned in Kindergarten: Uncommon Thoughts on Common Things | Robert Fulghum |
 | Deception Point | Dan Brown |
+| Devil's Way | Robert Bryndza |
 | Digital Fortress | Dan Brown |
 | Dune | Frank Herbert |
 | From Beginning to End: The Rituals of Our Lives | Robert Fulghum |
@@ -105,9 +107,12 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Origin | Dan Brown |
 | SÍ, VOLE! | Pavel Liška, Jan Révai, and Hynek Bernard |
 | Stezka Českem : může jít každý (English: Trail through the Czech Republic: anyone can go) | Martin Úbl & friends |
+| The Circle | Bernard Minier |
+| The Frozen Dead | Bernard Minier |
 | The Hobbit: or There and Back Again | John Ronald Reuel Tolkien |
 | The Leopard | Jo Nesbø |
 | The Lost Symbol | Dan Brown |
+| The Lost Victim | Robert Bryndza |
 | The Shining | Stephen King |
 | The Snowman | Jo Nesbø |
 | The Three-Body Problem | Liu Cixin |
