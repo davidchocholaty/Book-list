@@ -117,6 +117,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | The Snowman | Jo Nesbø |
 | The Three-Body Problem | Liu Cixin |
 | Theatro vagamundos | Pavel Liška, Jan Révai, and Hynek Bernard |
+| The Witcher: The Last Wish | Andrzej Sapkowski |
 
 ## Graphics & High Dynamic Range Imaging
 | Book        | Author |
