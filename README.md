@@ -147,9 +147,11 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Becoming the Iceman: Pushing Past Perceived Limits | Wim Hof and Justin Rosales |
 | Bible: Překlad 21. století (English: Bible: 21st Century Translation) | Alexandr Flek, B.A., M.Th., et al. |
 | Bluffer's Guide to Small Business: Bluff Your Way in Small Business | John Winterson Richards |
+| Daniels' Running Formula | Jack Daniels, PhD |
 | Deep Work: Rules for Focused Success in a Distracted World | Cal Newport |
 | Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time | Brian Tracy |
 | Emotional Intelligence | Daniel Goleman |
+| Good to Go: What the Athlete in All of Us Can Learn from the Strange Science of Recovery | Christie Aschwanden |
 | How to Drive: the Ultimate Guide, from the Man Who Was The Stig | Ben Collins |
 | How to Stop Worrying and Start Living | Dale Carnegie |
 | How to Win Friends and Influence People | Dale Carnegie |
@@ -160,6 +162,8 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Meditations | Marcus Aurelius |
 | Nová velká kniha etikety (English: The New Big Book of Etiquette) | Ladislav Špaček |
 | Posilování stresem : cesta k odolnosti (English: Strengthening with stress: the path to resilience) | Pavel Kolář |
+| Ready to Run: Unlocking Your Potential to Run Naturally | Dr. Kelly Starrett, and T.J. Murphy |
+| Running Rewired: Reinvent Your Run for Stability, Strength, and Speed | Jay Dicharry |
 | Standardy první pomoci (English: First Aid Standards) | collective of authors |
 | Teach Yourself How to Learn | Saundra Yancy McGuire |
 | TED Talks: The Official TED Guide to Public Speaking | Chris Anderson |
@@ -169,6 +173,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | The Pomodoro Technique: The Life-Changing Time-Management System | Francesco Cirillo |
 | The Power of Habit: Why We Do What We Do in Life and Business | Charles Duhigg |
 | The Richest Man in Babylon | George S. Clason |
+| The Running Revolution: How to Run Faster, Farther, and Injury-Free--for Life | Nicholas Romanov, and Kurt Brungardt |
 | The Secret Language of Success: Using Body Language to Get What You Want | David Lewis |
 | The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life | Mark Manson |
 | The Way of The Iceman: How The Wim Hof Method Creates Radiant, Longterm Health―Using The Science and Secrets of Breath Control, Cold-Training and Commitment | Wim Hof and Koen de Jong |
