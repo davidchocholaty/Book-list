@@ -7,14 +7,16 @@ Personal list of books I have read. The file was created for inspiration and tip
 3.  [Bitcoin & Blockchain](#bitcoin--blockchain)
 4.  [Classic & World Literature](#classic--world-literature)
 5.  [Fun](#fun)
-6.  [Graphics & High Dynamic Range Imaging](#graphics--high-dynamic-range-imaging)
-7.  [Languages](#languages)
-8.  [Music & Digital Signal Processing](#music--digital-signal-processing)
-9.  [Personal Growth & Self Improvement](#personal-growth--self-improvement)
-10. [Programming](#programming)
-11. [Theoretical Informatics](#theoretical-informatics)
-12. [Investing & Trading & Economics](#investing--trading--economics)
-13. [Machine Learning](#machine-learning)
+6.  [General Science](#general-science)
+7.  [Graphics & High Dynamic Range Imaging](#graphics--high-dynamic-range-imaging)
+8.  [Languages](#languages)
+9.  [Music & Digital Signal Processing](#music--digital-signal-processing)
+10. [Personal Growth & Self Improvement](#personal-growth--self-improvement)
+11. [Programming](#programming)
+12. [Theoretical Informatics](#theoretical-informatics)
+13. [Travelling & Hiking](#travelling--hiking)
+14. [Investing & Trading & Economics](#investing--trading--economics)
+15. [Machine Learning](#machine-learning)
 
 
 <hr>
@@ -119,6 +121,11 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Theatro vagamundos | Pavel Liška, Jan Révai, and Hynek Bernard |
 | The Witcher: The Last Wish | Andrzej Sapkowski |
 
+## General Science
+| Book        | Author |
+| ----------- | ----------- |
+| The Universe in a Nutshell | Stephen Hawking |
+
 ## Graphics & High Dynamic Range Imaging
 | Book        | Author |
 | ----------- | ----------- |
@@ -185,6 +192,7 @@ Personal list of books I have read. The file was created for inspiration and tip
 | Think Your Way to Wealth | Napoleon Hill |
 | This Is Marketing You Can’t Be Seen Until You Learn to See | Seth Godin |
 | Tools Of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers | Timothy Ferriss |
+| Rework: Change The Way You Work Forever |  Jason Fried and David Heinemeier Hansson |
 | Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! | Robert T. Kiyosaki |
 | Steal Like an Artist: 10 Things Nobody Told You About Being Creative | Austin Kleon |
 | Start With Why | Simon Sinek |
@@ -219,6 +227,14 @@ Personal list of books I have read. The file was created for inspiration and tip
 | DNA Computing: New Computing Paradigms | Gheorghe Păun, Grzegorz Rozenberg and Arto Salomaa |
 | Handbook of Formal Languages: Volume 1. Word, Language, Grammar |  Grzegorz Rozenberg and Arto Salomaa |
 | Regulated Grammars and Automata | prof. RNDr. Alexander Meduna, CSc. and Petr Zemek, PhD |
+
+## Travelling & Hiking
+| Book        | Author |
+| ----------- | ----------- |
+| Hory a nekonečno | Viktorka Hlaváčková |
+| Jak na přechody hor: Bezpečně, s úsměvem a s co nejlehčím batohem (English: How to Tackle Mountain Traverses: Safely, with a Smile, and with the Lightest Possible Backpack) | Jakub Venglář |
+| Místa, kam se nechodí: Dobrodružství náhodných odboček a neznačených cest (English: Places Less Traveled: The Adventure of Chance Detours and Unmarked Paths) | Jakub Venglář |
+| Nalehko: Jak si užít i stovky kilometrů dlouhý trek (English: Ultralight Backpacking: How to enjoy a trek that’s even hundreds of kilometers long) | Petr Kosek |
 
 ## Investing & Trading & Economics & Business
 | Book        | Author |
